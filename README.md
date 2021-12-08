@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ahsen :)
+- 👀 I’m interested in character design, application interface design, app design for android.
+- 🌱 I’m currently learning; java, kotlin, blender.
+- 📫 You can easily reach me on gmail(ahsen.cicek752@gmail.com)
+--->
