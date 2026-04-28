@@ -1,50 +1,48 @@
 <div align="center">
-  <h1>Selam, Ben Ahsen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi, I'm Ahsen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4Y2liOHAzbGhkbWIwcWE0NXU1YTVid3V3b2sxZmFxNmI0cW96YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Yazılımcı Kitty Desk Partisi" width="380">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4Y2liOHAzbGhkbWIwcWE0NXU1YTVid3V3b2sxZmFxNmI0cW96YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Coding Kitty" width="380">
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb6f92&center=true&vCenter=true&width=600&lines=Yapay+Zeka+Arastirmacisi;Lead+AI+Engine+Developer;Full-Stack+Gelistirici;Yapay+Zeka+ve+Kedilerle+Insa+Ediyoruz+🐾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb6f92&center=true&vCenter=true&width=600&lines=AI+Researcher;Lead+AI+Engine+Developer;Full-Stack+Developer;Building+with+AI+and+Cats+🐾" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/line-neon.gif" width="100%">
 </p>
 
-Klavye seslerinin mırıltıya karıştığı dünyama hoş geldin! Ben hem **Fırat Üniversitesi**'nde Yazılım Mühendisliği hem de **Anadolu Üniversitesi**'nde İşletme okuyan, karmaşık endüstriyel problemleri yapay zeka ile çözmeye bayılan bir geliştiriciyim. Kod yazmayı ve sistem mimarileri kurmayı, tıpkı bir kedinin lazerin peşinden koştuğu o bitmek bilmeyen odaklanmayla yapıyorum.
+Welcome to the realm where keyboard clicks harmonize with cat purrs! 🐾 I am a dual-degree student pursuing **Software Engineering at Fırat University** and **Business Management at Anadolu University**. [cite_start]I thrive on solving complex industrial challenges through the lens of Artificial Intelligence[cite: 6, 61, 64]. 
 
-Şu sıralar **Codlean** bünyesinde **Lead AI Engine Developer** olarak görev yapıyor; yüksek hacimli veri akışlarını yönetiyor ve endüstriyel tesisler için kural tabanlı mantıkla makine öğrenimini harmanlayan "Kestirimci Dijital İkizler" (Predictive Digital Twins) geliştiriyorum.
+[cite_start]Currently, I serve as the **Lead AI Engine Developer at Codlean**, where I architect "Predictive Digital Twins" by blending rule-based logic with Machine Learning to optimize high-volume industrial data streams[cite: 17, 27].
 
 ---
 
-### 🛠️ Geliştirici Tırmalama Tahtası (Teknoloji Yığınım)
+### 🚀 Recent Hunts (Featured Projects)
+<img src="https://media.tenor.com/PWl7LLlKWjoAAAAj/catrolling-cat.gif" width="130" align="right" alt="Cat Roll">
+
+- **🏭 Codlean MES AI Engine:** Architected a multi-layered AI engine for industrial monitoring. [cite_start]Implemented high-throughput **Kafka** streams and hybrid anomaly detection models to predict machinery failures and optimize uptime[cite: 17, 18, 19].
+- **🐾 VisionVet-AI:** Lead engineer for a mobile AI diagnostic system. [cite_start]Developed **CNN-based** models (CoreML/ONNX) integrated with smartphone microscopy for early detection of parasitic diseases in livestock[cite: 34, 35, 37].
+- **📡 TEKNOFEST '25 Wireless Comms:** Developed a jammer-resilient BLE/LoRa communication pipeline. [cite_start]Built adaptive modulation modules in Python and implemented frequency-hopping strategies for secure signal processing[cite: 29, 30, 31, 32].
+- [cite_start]**💊 Pharmora:** A sustainability-focused B2B platform designed to streamline drug exchange between pharmacies, reducing medical waste through a scalable **React/Node.js** and **Swift** ecosystem[cite: 41, 42, 43, 44].
+- [cite_start]**🌿 GreenGuard:** Built a C#/.NET analytics application using decision-tree engines and **NLP** to generate predictive health scores and care recommendations for smart plant management[cite: 53, 54, 55, 56].
+
+---
+
+### 🛠️ Developer Scratching Post (Tech Stack)
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Son Avlarım (Öne Çıkan Projeler)
-<img src="https://media.tenor.com/PWl7LLlKWjoAAAAj/catrolling-cat.gif" width="130" align="right" alt="Cat Roll">
-
-- **🐾 AI-VetScope:** Akıllı telefon mikroskobunu CoreML/ONNX tabanlı CNN modelleriyle birleştirerek, büyükbaş hayvanlarda hücresel düzeyde parazit ve hastalık teşhisi yapan mobil yapay zeka sistemi.
-- **🏭 Codlean MES AI Engine:** Endüstriyel makinelerin arıza sürelerini tahmin eden, Kafka veri akışları üzerinden gerçek zamanlı anomali tespiti yapan hibrit yapay zeka mimarisi.
-- **💊 Pharmora:** Eczaneler arası ilaç takasını sağlayarak tıbbi atığı ve imha maliyetlerini sıfıra indirmeyi hedefleyen sürdürülebilir B2B platformu.
-- **📡 TEKNOFEST '25 Haberleşme:** Sinyal bozuculara (jammer) karşı dirençli, yapay zeka destekli frekans atlamalı haberleşme simülasyonu.
-
-
-
----
-
-### 🌿 Kodlar Derlenirken...
-Ekrandan uzaklaştığım zamanlarda beni ya bitkisel kürlerin (yıldız anason, rezene, zencefil favorilerim!) doğal şifalarını araştırırken ya da Human Design ve Marifetname gibi kadim sistemlerin derinliklerinde karakter analizleri yaparken bulabilirsiniz. Ayrıca boş zamanlarımda Arduino ile nostaljik "Galaxy War" tarzı oyunlar geliştirmekten keyif alıyorum.
-
-
+### 🌿 When the Code is Compiling...
+When I'm not in front of a screen, you'll find me exploring the natural healing powers of herbal remedies (star anise and ginger are my go-tos) or diving deep into character analysis through systems like Human Design and the Marifetname. I also enjoy building nostalgic Arduino-based games like "Galaxy War" in my spare time.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAhsencicek&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahsen Stats" />
@@ -57,23 +55,19 @@ Ekrandan uzaklaştığım zamanlarda beni ya bitkisel kürlerin (yıldız anason
 <div align="center">
   <a href="https://linkedin.com/in/rahsencicek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahsen.cicek752@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-  <br>
-<hr>
+<br>
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="left" style="border: none;">
-        <img src="https://i.pinimg.com/originals/3c/5f/17/3c5f17cc4341c32dc2e76e9fa6cd5843.gif" width="120" alt="Walking Cat">
+      <td width="150" align="left">
+        <img src="https://i.pinimg.com/originals/3c/5f/17/3c5f17cc4341c32dc2e76e9fa6cd5843.gif" width="120">
       </td>
-      <td align="center" style="border: none; vertical-align: middle;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=F70505&center=true&vCenter=true&width=500&lines=Sisteminiz+hatasız%2C;mamanız+bol+olsun!+🐾;Code+Sleep+Purr+Repeat" alt="Typing SVG" />
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=200&color=eb6f92&vCenter=true&width=500&lines=May+your+systems+be+error-free%2C;and+your+bowl+always+full!+🐾;>_++Purr-fect+Code+Only" alt="Typing SVG" />
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/line-neon.gif" width="100%">
-</p>
