@@ -80,7 +80,7 @@ Ekrandan uzaklaştığım zamanlarda beni ya bitkisel kürlerin (yıldız anason
         <img src="https://64.media.tumblr.com/7b7d7f7e7c4f1c4f1c4f1c4f1c4f1c4f/tumblr_inline_p7n3s1k3yO1unv8mx_540.gif" width="120" alt="Dark Mode Pixel Cat">
       </td>
       <td align="center" valign="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=1000&color=FF4500&background=00000000&center=true&vCenter=true&width=400&lines=🔥+Sisteminiz+hatasiz,+mamaniz+bol+olsun!+🔥" alt="Sisteminiz hatasız!" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=FF4500&background=00000000&center=true&vCenter=true&width=400&lines=🔥+Sisteminiz+hatasiz,+mamaniz+bol+olsun!+🔥" alt="Sisteminiz hatasız!" />
       </td>
     </tr>
   </table>
