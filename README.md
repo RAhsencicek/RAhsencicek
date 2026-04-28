@@ -57,3 +57,23 @@ Ekrandan uzaklaştığım zamanlarda beni ya bitkisel kürlerin (yıldız anason
 <div align="center">
   <a href="https://linkedin.com/in/rahsencicek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ahsen.cicek752@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <br>
+<hr>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" style="border: none;">
+        <img src="https://i.pinimg.com/originals/3c/5f/17/3c5f17cc4341c32dc2e76e9fa6cd5843.gif" width="120" alt="Walking Cat">
+      </td>
+      <td align="center" style="border: none; vertical-align: middle;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=500&color=F70505&center=true&vCenter=true&width=500&lines=Sisteminiz+hatasız%2C;mamanız+bol+olsun!+🐾;Code+Sleep+Purr+Repeat" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/line-neon.gif" width="100%">
+</p>
