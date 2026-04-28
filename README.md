@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>Selam, Ben Ahsen! <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4Y2liOHAzbGhkbWIwcWE0NXU1YTVid3V3b2sxZmFxNmI0cW96YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" width="30px"></h1>
+  <h1>Selam, Ben Ahsen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Yazılımcı Kitty" width="300">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4Y2liOHAzbGhkbWIwcWE0NXU1YTVid3V3b2sxZmFxNmI0cW96YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Yazılımcı Kitty Desk Partisi" width="380">
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb6f92&center=true&vCenter=true&width=600&lines=Yapay+Zeka+Arastirmacisi;Lead+AI+Engine+Developer;Full-Stack+Gelistirici;Yapay+Zeka+ve+Kedilerle+Kodluyoruz+🐾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb6f92&center=true&vCenter=true&width=600&lines=Yapay+Zeka+Arastirmacisi;Lead+AI+Engine+Developer;Full-Stack+Gelistirici;Yapay+Zeka+ve+Kedilerle+Insa+Ediyoruz+🐾" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -47,7 +47,9 @@ Klavye seslerinin mırıltıya karıştığı dünyama hoş geldin! Ben hem **F�
   </tr>
 </table>
 
-
+<div align="right">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" alt="Hacker Cat">
+</div>
 
 ---
 
