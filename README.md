@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Yazılımcı Kitty" width="300">
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb6f92&center=true&vCenter=true&width=600&lines=Yapay+Zeka+Arastirmacisi;Lead+AI+Engine+Developer;Full-Stack+Gelistirici;Yapay+Zeka+ve+Kedilerle+Insa+Ediyoruz+🐾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=eb6f92&center=true&vCenter=true&width=600&lines=Yapay+Zeka+Arastirmacisi;Lead+AI+Engine+Developer;Full-Stack+Gelistirici;Yapay+Zeka+ve+Kedilerle+Kodluyoruz+🐾" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -47,9 +47,7 @@ Klavye seslerinin mırıltıya karıştığı dünyama hoş geldin! Ben hem **F�
   </tr>
 </table>
 
-<div align="right">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="130" alt="Hacker Cat">
-</div>
+
 
 ---
 
