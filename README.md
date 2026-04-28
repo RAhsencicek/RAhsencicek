@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Selam, Ben Ahsen! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Selam, Ben Ahsen! <img src="[https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczU4Y2liOHAzbGhkbWIwcWE0NXU1YTVid3V3b2sxZmFxNmI0cW96YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif)" width="30px"></h1>
   
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Yazılımcı Kitty" width="300">
   <br><br>
