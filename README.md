@@ -42,7 +42,7 @@
 ---
 
 ### 🌿 When the Code is Compiling...
-When I'm not in front of a screen, you'll find me exploring the natural healing powers of herbal remedies (star anise and ginger are my go-tos) or diving deep into character analysis through systems like Human Design and the Marifetname. I also enjoy building nostalgic Arduino-based games like "Galaxy War" in my spare time.
+When I'm not in front of a screen, you'll find me exploring the natural healing powers of herbal remedies (star anise and ginger are my go-tos) or diving deep into character analysis through systems like Human Design. I also enjoy building nostalgic Arduino-based games like "Galaxy War" in my spare time.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RAhsencicek&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahsen Stats" />
