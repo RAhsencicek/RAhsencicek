@@ -69,14 +69,19 @@ Ekrandan uzaklaştığım zamanlarda beni ya bitkisel kürlerin (yıldız anason
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/rahsencicek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ahsen.cicek752@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
-  <br><br>
-  
-  <img src="https://i.pinimg.com/originals/3c/5f/17/3c5f17cc4341c32dc2e76e9fa6cd5843.gif" width="150" alt="Pinterest Kedi">
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=15&pause=1000&color=FF4500&center=true&vCenter=true&width=450&lines=🔥+Sisteminiz+hatasiz,+mamaniz+bol+olsun!+🔥" alt="Sisteminiz hatasız, mamanız bol olsun!" />
+  <table border="0">
+    <tr>
+      <td align="center" valign="center">
+        <a href="https://linkedin.com/in/rahsencicek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <br>
+        <a href="mailto:ahsen.cicek752@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+      </td>
+      <td align="center" valign="center">
+        <img src="https://64.media.tumblr.com/7b7d7f7e7c4f1c4f1c4f1c4f1c4f1c4f/tumblr_inline_p7n3s1k3yO1unv8mx_540.gif" width="120" alt="Dark Mode Pixel Cat">
+      </td>
+      <td align="center" valign="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=18&pause=1000&color=FF4500&background=00000000&center=true&vCenter=true&width=400&lines=🔥+Sisteminiz+hatasiz,+mamaniz+bol+olsun!+🔥" alt="Sisteminiz hatasız!" />
+      </td>
+    </tr>
+  </table>
 </div>
