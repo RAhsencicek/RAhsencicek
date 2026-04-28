@@ -11,20 +11,20 @@
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/assets/line-neon.gif" width="100%">
 </p>
 
-Welcome to the realm where keyboard clicks harmonize with cat purrs! 🐾 I am a dual-degree student pursuing **Software Engineering at Fırat University** and **Business Management at Anadolu University**. [cite_start]I thrive on solving complex industrial challenges through the lens of Artificial Intelligence[cite: 6, 61, 64]. 
+  Welcome to the realm where keyboard clicks harmonize with cat purrs! 🐾 I am a dual-degree student pursuing **Software Engineering at Fırat University** and **Business Management at Anadolu University**. I thrive on solving complex industrial challenges through the lens of Artificial Intelligence. 
 
-[cite_start]Currently, I serve as the **Lead AI Engine Developer at Codlean**, where I architect "Predictive Digital Twins" by blending rule-based logic with Machine Learning to optimize high-volume industrial data streams[cite: 17, 27].
+  Currently, I serve as the **Lead AI Engine Developer at Codlean**, where I architect "Predictive Digital Twins" by blending rule-based logic with Machine Learning to optimize high-volume industrial data streams .
 
 ---
 
 ### 🚀 Recent Hunts (Featured Projects)
 <img src="https://media.tenor.com/PWl7LLlKWjoAAAAj/catrolling-cat.gif" width="130" align="right" alt="Cat Roll">
 
-- **🏭 Codlean MES AI Engine:** Architected a multi-layered AI engine for industrial monitoring. [cite_start]Implemented high-throughput **Kafka** streams and hybrid anomaly detection models to predict machinery failures and optimize uptime[cite: 17, 18, 19].
-- **🐾 VisionVet-AI:** Lead engineer for a mobile AI diagnostic system. [cite_start]Developed **CNN-based** models (CoreML/ONNX) integrated with smartphone microscopy for early detection of parasitic diseases in livestock[cite: 34, 35, 37].
-- **📡 TEKNOFEST '25 Wireless Comms:** Developed a jammer-resilient BLE/LoRa communication pipeline. [cite_start]Built adaptive modulation modules in Python and implemented frequency-hopping strategies for secure signal processing[cite: 29, 30, 31, 32].
-- [cite_start]**💊 Pharmora:** A sustainability-focused B2B platform designed to streamline drug exchange between pharmacies, reducing medical waste through a scalable **React/Node.js** and **Swift** ecosystem[cite: 41, 42, 43, 44].
-- [cite_start]**🌿 GreenGuard:** Built a C#/.NET analytics application using decision-tree engines and **NLP** to generate predictive health scores and care recommendations for smart plant management[cite: 53, 54, 55, 56].
+- 🏭 Codlean MES AI Engine:** Architected a multi-layered AI engine for industrial monitoring. Implemented high-throughput **Kafka** streams and hybrid anomaly detection models to predict machinery failures and optimize uptime.
+- 🐾 VisionVet-AI:** Lead engineer for a mobile AI diagnostic system. Developed **CNN-based** models (CoreML/ONNX) integrated with smartphone microscopy for early detection of parasitic diseases in livestock.
+- 📡 TEKNOFEST '25 Wireless Comms:** Developed a jammer-resilient BLE/LoRa communication pipeline. Built adaptive modulation modules in Python and implemented frequency-hopping strategies for secure signal processing.
+- 💊 Pharmora:** A sustainability-focused B2B platform designed to streamline drug exchange between pharmacies, reducing medical waste through a scalable **React/Node.js** and **Swift** ecosystem.
+- 🌿 GreenGuard:** Built a C#/.NET analytics application using decision-tree engines and **NLP** to generate predictive health scores and care recommendations for smart plant management.
 
 ---
 
